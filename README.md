@@ -22,10 +22,11 @@
 <a href="https://www.facebook.com/ahmed.metwally.9231" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 
 ## Technologies I Like
-* Embedded Systems Development.
-* Micro-Conntoller Hardware Desgin.
-* AutoSAR.
-* Macine Learning.
+* Embedded Systems Development
+* Micro-Conntoller Hardware Desgin
+* AutoSAR
+* Modern C++
+* Machine Learning
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
 ![GitHub](https://img.shields.io/badge/-GitHub-05122A?style=flat&logo=github)&nbsp;
