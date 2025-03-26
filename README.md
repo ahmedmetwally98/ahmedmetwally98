@@ -2,17 +2,18 @@
 
 <h3 align="center">
   Welcome to Ahmed Metwally's profile!
-  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28">
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"></br>
+  Hope you are finding something interesting to you!
 </h3>
 
-<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg -->
+<!-- Typing SVG by DenverCoder1 - https://github.com/DenverCoder1/readme-typing-svg --> 
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Embedded%20Software%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg"><img src="https://readme-typing-svg.herokuapp.com/?lines=Software%20Engineer;Always%20learning%20new%20things&font=Fira%20Code&center=true&width=440&height=45&color=f75c7e&vCenter=true&size=22"></a>
 </p> 
 
 - 🏢 I'm a Software Engineer.
-- 👨‍💻 As a Electronics and Electrical Communication Engineer, I'm constantly learning and exploring new technologies to improve my skills.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
+- 👨‍💻 As a passionate Engineer, I'm constantly learning and exploring new technologies to improve my skills.
+- ⚡ Fun Fact: I'm a caffeine enthusiast and my perfect day would start and end with a cup of coffee.
 
 ### Connect with Me :
 
@@ -22,10 +23,13 @@
 <a href="https://www.facebook.com/ahmed.metwally.9231" target="_blank"><img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/></a>
 
 ## Technologies I Like
+* Linux based OS
+* Real Time OS
+* Modern C++
+* Virtualization
 * Embedded Systems Development
 * Micro-Conntoller Hardware Desgin
 * AutoSAR
-* Modern C++
 * Machine Learning
 
 ![Git](https://img.shields.io/badge/-Git-05122A?style=flat&logo=git)&nbsp;
